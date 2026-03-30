@@ -1,7 +1,5 @@
 # James O'Connor
 
-Senior UI Developer at SAP Concur. Art history background (Cambridge, ABD), CCNA, iOS dev.
-
 Building AI-native developer tools and composable application platforms at [jim.software](https://jim.software).
 
 Contact: [hi@jim.software](mailto:hi@jim.software)
