@@ -22,6 +22,8 @@ Contact: [hi@jim.software](mailto:hi@jim.software)
 [![](https://img.shields.io/badge/AWS-Cloud-informational?style=for-the-badge&logo=amazonwebservices&logoColor=f4f4f4&labelColor=232F3E&color=6f6f6f)](https://aws.amazon.com)
 [![](https://img.shields.io/badge/Vercel-Cloud-informational?style=for-the-badge&logo=vercel&logoColor=f4f4f4&labelColor=000&color=6f6f6f)](https://vercel.com)
 [![](https://img.shields.io/badge/Docker-Cloud-informational?style=for-the-badge&logo=docker&logoColor=f4f4f4&labelColor=2496ED&color=6f6f6f)](https://www.docker.com)
+[![](https://img.shields.io/badge/Kubernetes-Cloud-informational?style=for-the-badge&logo=kubernetes&logoColor=f4f4f4&labelColor=326CE5&color=6f6f6f)](https://kubernetes.io)
+[![](https://img.shields.io/badge/Dynatrace-Cloud-informational?style=for-the-badge&logo=dynatrace&logoColor=f4f4f4&labelColor=1496FF&color=6f6f6f)](https://www.dynatrace.com)
 
 ## Platforms
 [![](https://img.shields.io/badge/GNU/Linux-Platforms-informational?style=for-the-badge&logo=linux&logoColor=f4f4f4&labelColor=FCC624&color=6f6f6f)](https://www.getgnulinux.org)
