@@ -41,7 +41,8 @@ Read the log at **[log.jim.software](https://log.jim.software)**
 | [daily-logger](https://github.com/ojfbot/daily-logger) | Cron sweeps 13 repos, Claude writes an article, PR opens for editorial review |
 | [cv-builder](https://github.com/ojfbot/cv-builder) | LangGraph multi-agent resume builder with visual regression CI pipeline |
 | [MrPlug](https://github.com/ojfbot/MrPlug) | Chrome extension: select any DOM element, describe what's wrong, get a GitHub issue or Claude Code fix |
-| [purefoy](https://github.com/ojfbot/purefoy) | Python RAG knowledge base — 348 podcast transcripts + 3,075 forum posts, SQLite FTS5 |
+| [GroupThink](https://github.com/ojfbot/GroupThink) | Chrome extension: LLM-powered tab grouping — analyzes open tabs and organizes them into semantic groups |
+| [purefoy](https://github.com/ojfbot/purefoy) | Team Deakins cinematography knowledge base — 348 podcast transcripts + 3,075 forum posts, Python RAG pipeline with SQLite FTS5 |
 | [blogengine](https://github.com/ojfbot/BlogEngine) | AI content platform with podcast responder pipeline and Notion integration |
 | [TripPlanner](https://github.com/ojfbot/TripPlanner) | AI trip planning — 11-phase SSE pipeline, 6 itinerary lens views, LangGraph agents |
 | [frame-ui-components](https://github.com/ojfbot/frame-ui-components) | Shared component library consumed by 9 apps (Carbon Design System) |
