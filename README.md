@@ -12,9 +12,9 @@ Building AI-native developer tools and composable application platforms.
 
 ---
 
-## Frame OS
+## Frame
 
-Frame OS is an AI-native application compositor. One shell, one assistant, one API key — routing natural-language intent across nine domain-specific apps. The shell is a [Vite Module Federation](https://github.com/nicolo-ribaudo/vite-plugin-federation) host: each sub-app loads as a true React remote with shared Redux and Carbon Design System singletons. No iframes, no page reloads. A central LLM gateway ([frame-agent](https://github.com/ojfbot/shell)) classifies intent and delegates to domain agents, so every app in the ecosystem gets AI capabilities through a single Anthropic API key.
+Frame is an AI-native application compositor. One shell, one assistant, one API key — routing natural-language intent across nine domain-specific apps. The shell is a [Vite Module Federation](https://github.com/nicolo-ribaudo/vite-plugin-federation) host: each sub-app loads as a true React remote with shared Redux and Carbon Design System singletons. No iframes, no page reloads. A central LLM gateway ([frame-agent](https://github.com/ojfbot/shell)) classifies intent and delegates to domain agents, so every app in the ecosystem gets AI capabilities through a single Anthropic API key.
 
 The architectural bets: Module Federation over iframes. Domain agents over monolithic prompts. A single shared component library over per-app duplication. Kubernetes manifests ready, Vercel serving the edge layer.
 
