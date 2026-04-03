@@ -1,30 +1,48 @@
 # James O'Connor
 
-Building AI-native developer tools and composable application platforms at [jim.software](https://jim.software).
+Building AI-native developer tools and composable application platforms.
 
-Contact: [hi@jim.software](mailto:hi@jim.software)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff)](https://www.python.org)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?style=flat-square)](https://langchain-ai.github.io/langgraph/)
+[![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square)](https://docs.anthropic.com)
 
-## Languages
-[![](https://img.shields.io/badge/TypeScript-Languages-informational?style=for-the-badge&logo=typescript&logoColor=f4f4f4&labelColor=3178c6&color=6f6f6f)](https://www.typescriptlang.org)
-[![](https://img.shields.io/badge/JavaScript-Languages-informational?style=for-the-badge&logo=javascript&logoColor=393939&labelColor=f7df1e&color=6f6f6f)](https://262.ecma-international.org)
-[![](https://img.shields.io/badge/Python-Languages-informational?style=for-the-badge&logo=python&logoColor=f4f4f4&labelColor=3776ab&color=6f6f6f)](https://www.python.org)
-[![](https://img.shields.io/badge/GraphQL-Languages-informational?style=for-the-badge&logo=graphql&logoColor=f4f4f4&labelColor=e10098&color=6f6f6f)](https://graphql.org)
+[jim.software](https://jim.software) · [hi@jim.software](mailto:hi@jim.software)
 
-## Tools
-[![](https://img.shields.io/badge/React-Tools-informational?style=for-the-badge&logo=react&logoColor=393939&labelColor=61DAFB&color=6f6f6f)](https://react.dev)
-[![](https://img.shields.io/badge/Node.js-Tools-informational?style=for-the-badge&logo=node.js&logoColor=f4f4f4&labelColor=339933&color=6f6f6f)](https://nodejs.org)
-[![](https://img.shields.io/badge/Vite-Tools-informational?style=for-the-badge&logo=vite&logoColor=f4f4f4&labelColor=646CFF&color=6f6f6f)](https://vite.dev)
-[![](https://img.shields.io/badge/Three.js-Tools-informational?style=for-the-badge&logo=three.js&logoColor=f4f4f4&labelColor=000&color=6f6f6f)](https://threejs.org)
-[![](https://img.shields.io/badge/Carbon%20Design%20System-Tools-informational?style=for-the-badge&labelColor=0f62fe&color=6f6f6f&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmlld0JveD0iMCAwIDMyIDMyIgogICBoZWlnaHQ9IjMyIgogICB3aWR0aD0iMzIiPgogIDxwYXRoCiAgICAgZD0iTTEzLjUsMzAuODE0OWExLjAwMTEsMS4wMDExLDAsMCwxLS40OTI3LS4xM2wtOC41LTQuODE1QTEsMSwwLDAsMSw0LDI1VjE1YTEsMSwwLDAsMSwuNTA3My0uODdsOC41LTQuODE1YTEuMDAxMywxLjAwMTMsMCwwLDEsLjk4NTQsMGw4LjUsNC44MTVBMSwxLDAsMCwxLDIzLDE1VjI1YTEsMSwwLDAsMS0uNTA3My44N2wtOC41LDQuODE1QTEuMDAxMSwxLjAwMTEsMCwwLDEsMTMuNSwzMC44MTQ5Wk02LDI0LjQxN2w3LjUsNC4yNDg1TDIxLDI0LjQxN1YxNS41ODNsLTcuNS00LjI0ODVMNiwxNS41ODNaIgogICAgIGZpbGw9IiNmNGY0ZjQiLz4KICA8cGF0aAogICAgIGQ9Ik0yOCwxN0gyNlY3LjU4M0wxOC41LDMuMzM0NSwxMC40OTI3LDcuODcsOS41MDczLDYuMTNsOC41LTQuODE1YTEuMDAxMywxLjAwMTMsMCwwLDEsLjk4NTQsMGw4LjUsNC44MTVBMSwxLDAsMCwxLDI4LDdaIgogICAgIGZpbGw9IiNmNGY0ZjQiLz4KPC9zdmc+)](https://www.carbondesignsystem.com)
-[![](https://img.shields.io/badge/LangGraph-Tools-informational?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iNCIgZmlsbD0iI2Y0ZjRmNCIvPjxjaXJjbGUgY3g9IjI0IiBjeT0iOCIgcj0iNCIgZmlsbD0iI2Y0ZjRmNCIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iMjQiIHI9IjQiIGZpbGw9IiNmNGY0ZjQiLz48bGluZSB4MT0iOCIgeTE9IjEyIiB4Mj0iMTYiIHkyPSIyMCIgc3Ryb2tlPSIjZjRmNGY0IiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQiIHkxPSIxMiIgeDI9IjE2IiB5Mj0iMjAiIHN0cm9rZT0iI2Y0ZjRmNCIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+&logoColor=f4f4f4&labelColor=1c3c3c&color=6f6f6f)](https://langchain-ai.github.io/langgraph/)
+---
 
-## Cloud
-[![](https://img.shields.io/badge/AWS-Cloud-informational?style=for-the-badge&logo=amazonwebservices&logoColor=f4f4f4&labelColor=232F3E&color=6f6f6f)](https://aws.amazon.com)
-[![](https://img.shields.io/badge/Vercel-Cloud-informational?style=for-the-badge&logo=vercel&logoColor=f4f4f4&labelColor=000&color=6f6f6f)](https://vercel.com)
-[![](https://img.shields.io/badge/Docker-Cloud-informational?style=for-the-badge&logo=docker&logoColor=f4f4f4&labelColor=2496ED&color=6f6f6f)](https://www.docker.com)
-[![](https://img.shields.io/badge/Kubernetes-Cloud-informational?style=for-the-badge&logo=kubernetes&logoColor=f4f4f4&labelColor=326CE5&color=6f6f6f)](https://kubernetes.io)
-[![](https://img.shields.io/badge/Dynatrace-Cloud-informational?style=for-the-badge&logo=dynatrace&logoColor=f4f4f4&labelColor=1496FF&color=6f6f6f)](https://www.dynatrace.com)
+## Frame OS
 
-## Platforms
-[![](https://img.shields.io/badge/GNU/Linux-Platforms-informational?style=for-the-badge&logo=linux&logoColor=f4f4f4&labelColor=FCC624&color=6f6f6f)](https://www.getgnulinux.org)
-[![](https://img.shields.io/badge/Apple-Platforms-informational?style=for-the-badge&logo=apple&logoColor=f4f4f4&labelColor=000&color=6f6f6f)](https://developer.apple.com)
+Frame OS is an AI-native application compositor. One shell, one assistant, one API key — routing natural-language intent across nine domain-specific apps. The shell is a [Vite Module Federation](https://github.com/nicolo-ribaudo/vite-plugin-federation) host: each sub-app loads as a true React remote with shared Redux and Carbon Design System singletons. No iframes, no page reloads. A central LLM gateway ([frame-agent](https://github.com/ojfbot/shell)) classifies intent and delegates to domain agents, so every app in the ecosystem gets AI capabilities through a single Anthropic API key.
+
+The architectural bets: Module Federation over iframes. Domain agents over monolithic prompts. A single shared component library over per-app duplication. Kubernetes manifests ready, Vercel serving the edge layer.
+
+## Core Workflow Framework
+
+I built the internal developer platform for this ecosystem. [Core](https://github.com/ojfbot/core) is a portable Claude Code workflow framework: 30+ slash commands covering the full development lifecycle — planning, scaffolding, validating, deploying, investigating, hardening, sweeping. Each command is a self-contained skill directory with its own orchestration prompt, knowledge files, and scripts. A TypeScript CLI and VS Code extension back the same commands for CI and editor use.
+
+One `install-agents.sh` call symlinks the full toolkit into any sibling repo. 34 Architecture Decision Records document every significant decision with context, alternatives, and rationale. A self-improvement loop (`/techdebt`) proposes patches to the framework itself — never production code.
+
+## Daily Dev Log
+
+Every day, a GitHub Action sweeps commits across 13 repos, Claude writes an article with structured sections, and a draft PR opens for editorial review. Merging deploys to Vercel.
+
+Read the log at **[log.jim.software](https://log.jim.software)**
+
+---
+
+## Repos
+
+| Repo | What's interesting |
+|------|-------------------|
+| [shell](https://github.com/ojfbot/shell) | Module Federation host + single-API-key LLM gateway for 9 domain apps |
+| [core](https://github.com/ojfbot/core) | 30+ Claude Code slash commands, TypeScript workflow engine, 34 ADRs |
+| [daily-logger](https://github.com/ojfbot/daily-logger) | Cron sweeps 13 repos, Claude writes an article, PR opens for editorial review |
+| [cv-builder](https://github.com/ojfbot/cv-builder) | LangGraph multi-agent resume builder with visual regression CI pipeline |
+| [MrPlug](https://github.com/ojfbot/MrPlug) | Chrome extension: select any DOM element, describe what's wrong, get a GitHub issue or Claude Code fix |
+| [purefoy](https://github.com/ojfbot/purefoy) | Python RAG knowledge base — 348 podcast transcripts + 3,075 forum posts, SQLite FTS5 |
+| [blogengine](https://github.com/ojfbot/BlogEngine) | AI content platform with podcast responder pipeline and Notion integration |
+| [TripPlanner](https://github.com/ojfbot/TripPlanner) | AI trip planning — 11-phase SSE pipeline, 6 itinerary lens views, LangGraph agents |
+| [frame-ui-components](https://github.com/ojfbot/frame-ui-components) | Shared component library consumed by 9 apps (Carbon Design System) |
+| [landing](https://github.com/ojfbot/landing) | [jim.software](https://jim.software) — Vite + React + Three.js corridor canvas |
