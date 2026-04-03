@@ -20,7 +20,7 @@ The architectural bets: Module Federation over iframes. Domain agents over monol
 
 ## Core Workflow Framework
 
-I built the internal developer platform for this ecosystem. [Core](https://github.com/ojfbot/core) is a portable Claude Code workflow framework: 30+ slash commands covering the full development lifecycle — planning, scaffolding, validating, deploying, investigating, hardening, sweeping. Each command is a self-contained skill directory with its own orchestration prompt, knowledge files, and scripts. A TypeScript CLI and VS Code extension back the same commands for CI and editor use.
+The internal developer platform for this ecosystem. [Core](https://github.com/ojfbot/core) is a portable Claude Code workflow framework: 30+ slash commands covering the full development lifecycle — planning, scaffolding, validating, deploying, investigating, hardening, sweeping. Each command is a self-contained skill directory with its own orchestration prompt, knowledge files, and scripts. A TypeScript CLI and VS Code extension back the same commands for CI and editor use.
 
 One `install-agents.sh` call symlinks the full toolkit into any sibling repo. 34 Architecture Decision Records document every significant decision with context, alternatives, and rationale. A self-improvement loop (`/techdebt`) proposes patches to the framework itself — never production code.
 
