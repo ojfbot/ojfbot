@@ -21,8 +21,6 @@ Building AI-powered developer tools — multi-agent systems, MCP servers, Claude
 - **Claude Code hooks** — PreToolUse hooks inject ESLint violations as LLM context before edits; PostToolUse hooks detect regressions
 - **Skill telemetry pipeline** — JSONL-based tracking of skill/tool usage across sessions, surfaced as PR comments and daily blog telemetry
 
-At SAP Concur, I built a production AI advisory platform: 3 MCP servers, 10 weighted expert personas, 55K+ PR RAG pipeline, VS Code extension, Teams bot, React dashboard — 304 tests across 8 packages.
-
 ## Frame OS
 
 An AI-native application compositor. One shell, one assistant, one API key — routing natural-language intent across domain-specific apps via [Vite Module Federation](https://github.com/nicolo-ribaudo/vite-plugin-federation) with shared React/Redux singletons and Carbon Design System.
