@@ -1,6 +1,6 @@
 # James O'Connor
 
-Building AI-powered developer tools — multi-agent systems, MCP servers, Claude Code skills, and the tooling infrastructure that makes AI coding assistants better.
+Building AI-powered developer tools — multi-agent systems, MCP servers, Claude Code skills, and tooling infrastructure to make AI coding assistants better.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev)
